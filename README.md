@@ -14,17 +14,7 @@ The application includes:
 
   - Horizontally scrollable movie rows
 
-  - Dynamic detail pages for each show
-
   - Fully responsive design
-
-  - Optimized images with Next.js <Image>
-
-  - Smooth animations and hover effects
-
-  - A global navigation bar (Header)
-
-This project is ideal for showcasing front-end engineering skills and real API integration.
 
 ## Quick start
 
